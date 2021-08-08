@@ -36,3 +36,7 @@ const viewport = CanvasLayering.create(viewportElement);
   ctx.fillRect(120, 10, 50, 100);
   ctx.restore();
 }
+
+setTimeout(() => {
+  viewport.remove(2);
+}, 5000);
