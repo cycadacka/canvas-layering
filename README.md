@@ -7,4 +7,4 @@
 3. Import the `.js` file (default import).
 
 ## Usage
-For basic layer adding, it expects the element to be a `div` or any generic element.
+For adding layers, it expects the element to be a `div` or any generic element.
