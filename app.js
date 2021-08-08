@@ -1,5 +1,3 @@
-import CanvasLayering from './lib/canvas-layering.js';
-
 const viewportElement = document.getElementById('viewport');
 const viewport = CanvasLayering.create(viewportElement);
 
